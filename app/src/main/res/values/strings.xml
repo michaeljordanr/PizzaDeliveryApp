@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+
+    <string name="image_logo_description">Image Logo</string>
+
+    <string name="max_flavors_error_message">Max of two pizza flavors is allowed</string>
+    <string name="two_flavor_pizza_label">Favor: Half %s Half %s</string>
+    <string name="one_flavor_pizza_label">Favor: %s</string>
+    <string name="total_price_label">Total: %s</string>
+
+    <string name="two_flavor_pizza_message">a pizza half %s / half %s</string>
+    <string name="one_flavor_pizza_message">a %s pizza</string>
+    <string name="order_label">Order</string>
+    <string name="confirmation_label">Confirmation</string>
+    <string name="your_order_label">Your Order:</string>
+    <string name="flavor_selected_label">Flavor Selected</string>
+</resources>
